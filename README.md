@@ -29,7 +29,7 @@ Resource Cleanup: Handles the exit status of children asynchronously.
 💻 How to Run
 Bash
 # Clone the repository
-git clone https://github.com/yourusername/custom-linux-shell.git
+git clone https://github.com/Akshith268/Custom-shell-C.git
 
 # Compile using GCC
 gcc myshell.c -o myshell
